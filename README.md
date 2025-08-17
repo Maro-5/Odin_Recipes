@@ -5,4 +5,4 @@ In this project I showed understanding of basic html by using headers, paragraph
 I used basic git commands to add, commit and push the project to github.
 Using nesting and indentaion I made the code more readable.
 
-**Link to Project** http://maro-5.github.io/Odin_Recipes
+**Link to Project:** http://maro-5.github.io/Odin_Recipes
